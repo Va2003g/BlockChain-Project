@@ -1,0 +1,12 @@
+/* Import the base Tailwind CSS styles */
+@import 'tailwindcss/base';
+
+/* Import the components */
+@import 'tailwindcss/components';
+
+/* Add your custom styles here */
+/* For example: */
+/* .my-custom-class { ... } */
+
+/* Import the utilities */
+@import 'tailwindcss/utilities';
